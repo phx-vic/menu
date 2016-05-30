@@ -4,6 +4,7 @@ nav ul {
 	list-style: none;
 	font-size: 0;
 	white-space: nowrap;
+	background-color: #ccc;
 }
 
 nav ul li {
